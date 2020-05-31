@@ -1,0 +1,4 @@
+bazel-bin
+bazel-helloworld-java
+bazel-out
+bazel-testlogs
